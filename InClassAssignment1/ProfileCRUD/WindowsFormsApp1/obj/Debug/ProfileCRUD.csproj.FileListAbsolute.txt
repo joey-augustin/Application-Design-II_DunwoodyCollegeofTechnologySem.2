@@ -1,0 +1,10 @@
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProfileCRUD.csproj.AssemblyReference.cache
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemberProfile.resources
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProfileCRUD.csproj.GenerateResource.cache
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProfileCRUD.csproj.CoreCompileInputs.cache
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\augjosk\OneDrive - Dunwoody College of Technology\2-App Design II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
