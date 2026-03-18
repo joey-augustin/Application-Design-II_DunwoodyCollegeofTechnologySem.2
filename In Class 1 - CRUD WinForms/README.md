@@ -1,4 +1,4 @@
-# In Class Assignment 1
+# In Class 1 - CRUD WinForms
 
 ## Overview
 This assignment was an instructor-led project utilizing .NET Desktop using WinForms to make a member profile page. Personal information can be created, read, searched for, updated, and deleted in the application's database.
