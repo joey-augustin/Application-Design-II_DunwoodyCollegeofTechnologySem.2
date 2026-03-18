@@ -1,10 +1,13 @@
 # In Class Assignment 1
 
-This assignment was an instructor-led project utilizing .NET Desktop to make a CRUD login page.
-
 ## Overview
-This is a .NET desktop application built using WinForms.  
-It was created as part of coursework to practice C#, Event Handling, Data Input, UI Design.
+This assignment was an instructor-led project utilizing .NET Desktop using WinForms to make a member profile page. Personal information can be created, read, searched for, updated, and deleted in the application's database.
+
+## What I Learned
+- C# Fundamentals
+- Event Handling
+- Data Input
+- UI Design
 
 ## Technologies
 - C#
