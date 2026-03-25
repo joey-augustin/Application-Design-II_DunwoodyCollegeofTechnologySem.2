@@ -1,7 +1,7 @@
 # Homework 2 - Research and Development
 
 ## Overview
-The goal of this assignment was to create a program that collects user information and displays it in multiple formats, including a calculation for years until retirement. I completed this assignments in two languages (C# and Java) to strengthen my understanding of the similarities and differences in syntax between the two.
+The goal of this assignment was to create a program that collects user information (name, age, hobby) and displays it in multiple formats, including a calculation for years until retirement. I completed this assignments in two languages (C# and Java) to strengthen my understanding of the similarities and differences in syntax between the two.
 
 ## What I Learned
 - Classes and Objects
