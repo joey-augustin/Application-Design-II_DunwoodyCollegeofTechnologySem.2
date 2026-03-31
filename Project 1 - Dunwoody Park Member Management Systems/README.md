@@ -1,4 +1,4 @@
-# Homework 3 - Dunwoody Park Member Management Systems
+# Project 1 - Dunwoody Park Member Management Systems
 
 ## Overview
 The goal of this project was to create a Windows Forms Application developed in C# that allows staff to manage member records for Dunwoody Park. In this scenario, the system replaces manual record-keeping with a simple, user-friendly desktop interface connected to a database.
