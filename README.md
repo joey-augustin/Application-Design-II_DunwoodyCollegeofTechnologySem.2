@@ -10,4 +10,4 @@ This repository contains all of the homework assignments I completed for Applica
 2) **Assignment 2** -
 
 ## In-Class Work
-1) **In-Class 1** - 
+1) **In-Class 1** - CRUD WinForms: 
