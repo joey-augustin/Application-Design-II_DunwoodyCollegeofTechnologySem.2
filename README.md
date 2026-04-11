@@ -10,4 +10,4 @@ This repository contains all of the homework assignments I completed for Applica
 2) **Assignment 2** - Research & Development: Using Java and C# to collect user info and display it in multiple formats.
 
 ## In-Class Work
-1) **In-Class 1** - CRUD WinForms: 
+1) **In-Class 1** - CRUD WinForms: Utilizing .NET to create a user login page.
