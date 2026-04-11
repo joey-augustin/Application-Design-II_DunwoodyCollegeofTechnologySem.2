@@ -3,7 +3,7 @@
 This repository contains all of the homework assignments I completed for Application Design II:
 
 ## Projects:
-1) **Project 1** - Dunwoody Park Member Management Systems: 
+1) **Project 1** - Dunwoody Park Member Management Systems: Creating a WinForms app to replace manual tracking of 
  
 ## Assignments:
 1) **Assignment 1** - C# & Java: Implementing output statements, variables, constants, data types, and comments.
