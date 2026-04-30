@@ -1,4 +1,4 @@
-# Homework 7 - Implement Method Overriding *(continuation of Homework 6)*
+# Homework 7 - Implement Method Overriding *(continuation of Homework 6 - Implement Inheritance)*
 
 ## Overview
 The goal of this assignment was to demonstrate object-oriented programming concepts including inheritance, method overriding, and polymorphism. I created multiple shape classes (Rectangle, Square, Circle, and SemiCircle) in Homework 6, and implemented area calculations using user input for Rectangle and Square. I also modified the program to support decimal values for more precise measurements.
