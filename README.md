@@ -17,5 +17,5 @@ This repository contains all of the homework assignments I completed for Applica
 6) **Assignment 6 - Implement Inheritance:**
 7) **Assignment 7 - Implement Method Overriding:** 
 
-## In-Class Work
+## In-Class Work:
 1) **In-Class 1 - CRUD WinForms:** Utilizing .NET to create a user profile page with CRUD operations.
