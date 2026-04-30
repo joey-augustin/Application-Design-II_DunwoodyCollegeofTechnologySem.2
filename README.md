@@ -10,7 +10,9 @@ This repository contains all of the homework assignments I completed for Applica
 2) **Assignment 2** - Research & Development: Using Java and C# to collect user info and display it in multiple formats.
 3) **Assignment 3** - Research & Development 2: Using Java to create a Fahrenheit to Celsius & Celsius to Fahrenheit application, testing the application using JUnit5.
 4) **Assignment 4** - Smart Home: 
-5) **Assignment 5** - Research and Development 3: 
+5) **Assignment 5** - Research and Development 3:
+6) **Assignment 6** - Implement Inheritance:
+7) **Assignment 7** - Implement Method Overriding: 
 
 ## In-Class Work
 1) **In-Class 1** - CRUD WinForms: Utilizing .NET to create a user profile page with CRUD operations.
