@@ -15,7 +15,8 @@ This repository contains all of the homework assignments I completed for Applica
 4) **Assignment 4 - Smart Home:** 
 5) **Assignment 5 - Research and Development 3:**
 6) **Assignment 6 - Implement Inheritance:**
-7) **Assignment 7 - Implement Method Overriding:** 
+7) **Assignment 7 - Implement Method Overriding:**
+8) **Assignment 8 - Abstraction:** 
 
 ## In-Class Work:
 1) **In-Class 1 - CRUD WinForms:** Utilizing .NET to create a user profile page with CRUD operations.
