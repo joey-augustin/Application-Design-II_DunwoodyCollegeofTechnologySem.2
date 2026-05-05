@@ -3,7 +3,7 @@
 This repository contains all of the homework assignments I completed for Application Design II:
 
 ## Final:
-1) **Fantasy Creature Management System:** 
+1) **Fantasy Creature Management System:**
 
 ## Projects:
 1) **Project 1 - Dunwoody Park Member Management Systems:** Creating a WinForms app to replace manual tracking of and CRUD operation of member records for Dunwoody Park.
